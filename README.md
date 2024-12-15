@@ -12,7 +12,8 @@
     
     ```python -m venv myenv``` или ```python3 -m venv myenv``` (зависит от версии python установленной на ваш компьютер)
    
-    ```source myenv/bin/activate```  # Для Windows используйте ```myenv\Scripts\activate```
+   Теперь активируем наше окружение:
+   ```source myenv/bin/activate```  # Для Windows используйте ```myenv\Scripts\activate```
 
     # Установите зависимости
     ```pip install -r requirements.txt```
