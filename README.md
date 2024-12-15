@@ -6,7 +6,7 @@
     
     ```git clone https://github.com/Tafatok/telegram-bot-with-api```
 
-    После перейдите в дерикторию cd telegram-bot-with-api
+    После перейдите в дерикторию ```cd telegram-bot-with-api```
 
     
 
