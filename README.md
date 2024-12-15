@@ -3,12 +3,14 @@
 1. Клонируйте репозиторий:
     ```bash
     git clone https://github.com/Tafatok/telegram-bot-with-api
-    
+
+    После перейдите в дерикторию cd telegram-bot-with-api
+
     ```
 
 2. Создайте и активируйте виртуальное окружение:
     ```bash
-    python -m venv myenv
+    python -m venv myenv или python3 -m venv myenv (зависит от версии python установленной на ваш компьютер)
     source myenv/bin/activate  # Для Windows используйте `myenv\Scripts\activate`
 
     # Установите зависимости
