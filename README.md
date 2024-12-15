@@ -15,7 +15,7 @@
    Теперь активируем наше окружение:
    ```source myenv/bin/activate```  # Для Windows используйте ```myenv\Scripts\activate```
 
-    # Установите зависимости
+   Установите зависимости
     ```pip install -r requirements.txt```
    
 
