@@ -11,13 +11,14 @@
 2. Создайте и активируйте виртуальное окружение:
     
     ```python -m venv myenv``` или ```python3 -m venv myenv``` (зависит от версии python установленной на ваш компьютер)
+   
     ```source myenv/bin/activate```  # Для Windows используйте ```myenv\Scripts\activate```
 
     # Установите зависимости
     ```pip install -r requirements.txt```
    
 
-3. Запустите проект:
+4. Запустите проект:
     
     Для запуска бота
     ```python main.py```
